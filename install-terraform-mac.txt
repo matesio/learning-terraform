@@ -1,0 +1,5 @@
+https://www.terraform.io/intro/getting-started/install.html
+
+download zip archive from..
+https://www.terraform.io/downloads.html
+extract the zip file and append the terraform binary path to $PATH. 
