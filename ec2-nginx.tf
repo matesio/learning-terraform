@@ -1,6 +1,6 @@
 # Template to spin up ec2 instance (Amazon linux) with nginx installed.
 
-variable "private_key_path"{}
+variable "private_key_path" {}
 
 provider "aws"{
 
